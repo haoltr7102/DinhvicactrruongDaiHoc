@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2/HgvCsWC88ZnLPMbkOwbwarpLb8+cSqHtndslcXWQ+Hq9wiN5IAPuRU7liafwHc8654NRdl23/9cUDjB9T+3Q==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\DoAnC#\\DoAn\\DoAn\\DoAn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiro\\.nuget\\packages\\guna.ui2.winforms\\2.0.4\\guna.ui2.winforms.2.0.4.nupkg.sha512",
+    "C:\\Users\\shiro\\.nuget\\packages\\system.data.sqlclient\\4.8.5\\system.data.sqlclient.4.8.5.nupkg.sha512"
+  ],
+  "logs": []
+}

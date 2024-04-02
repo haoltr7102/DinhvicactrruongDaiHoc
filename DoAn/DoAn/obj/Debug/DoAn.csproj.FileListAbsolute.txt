@@ -1,0 +1,16 @@
+D:\C#\DoAnC#\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\C#\DoAnC#\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\C#\DoAnC#\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\C#\DoAnC#\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+D:\C#\DoAnC#\DoAn\DoAn\bin\Debug\System.Data.SqlClient.dll
+D:\C#\DoAnC#\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+D:\C#\DoAnC#\DoAn\DoAn\obj\Debug\DoAn.csproj.SuggestedBindingRedirects.cache
+D:\C#\DoAnC#\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+D:\C#\DoAnC#\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\C#\DoAnC#\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\C#\DoAnC#\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\C#\DoAnC#\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+D:\C#\DoAnC#\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\C#\DoAnC#\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\C#\DoAnC#\DoAn\DoAn\obj\Debug\DoAn.cacTruongDH.resources
+D:\C#\DoAnC#\DoAn\DoAn\obj\Debug\DoAn.Form2.resources

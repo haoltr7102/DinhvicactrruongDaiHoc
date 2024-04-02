@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C#\\DoAnC#\\DoAn\\DoAn\\DoAn.csproj": {}
+  },
+  "projects": {
+    "D:\\C#\\DoAnC#\\DoAn\\DoAn\\DoAn.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\DoAnC#\\DoAn\\DoAn\\DoAn.csproj",
+        "projectName": "DoAn",
+        "projectPath": "D:\\C#\\DoAnC#\\DoAn\\DoAn\\DoAn.csproj",
+        "packagesPath": "C:\\Users\\shiro\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\DoAnC#\\DoAn\\DoAn\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\shiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Guna.UI2.WinForms": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
